@@ -6,6 +6,7 @@ This repository provides a starter kit for accessing and analysing **VandaTrack 
 - Official Python SDK  
 - Sample datasets (S3)
 - Rerence Data
+    - Mapping of aggregates (VandaID <-> Name)
 
 ---
 
