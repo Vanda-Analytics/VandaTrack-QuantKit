@@ -103,6 +103,9 @@ Each sample is partitioned by:
     - All Frequencies (10min, 30min, 1H, 1D, 1W, 1M)
     - REST API & Python SDK
 
+- Reference Data
+    - Aggregate ID - Name mappings
+
 ## Coming Soon
 
 Additional analytics capabilities will be added in future releases. Stay tuned. 
