@@ -94,7 +94,8 @@ Each sample is partitioned by:
 
 ## Included Notebooks
 
-### retail_investor_flows_cash_example.ipynb
+### Retail Cash Flows (REST API & Python SDK)
+### Real Use Case - Nasdaq 100 Sector Aggregation 
 
 
 ## What This Starter Kit Covers
