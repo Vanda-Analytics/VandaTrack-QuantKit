@@ -1,0 +1,547 @@
+id,vanda_id,type,subtype,name
+2400001,VNDA2400001,Asset Class,Depository Receipts,Depository Receipts
+2400005,VNDA2400005,Asset Class,Exchange Traded Commodities (ETC),Exchange Traded Commodities (ETC)
+2400003,VNDA2400003,Asset Class,Exchange Traded Funds (ETF),Exchange Traded Funds (ETF)
+2400002,VNDA2400002,Asset Class,Exchange Traded Products (ETF/ETC),Exchange Traded Products (ETF/ETC)
+2400004,VNDA2400004,Asset Class,Fixed Income/Bonds,Fixed Income/Bonds
+2400000,VNDA2400000,Asset Class,Single Stocks,Single Stocks
+2100000,VNDA2100000,Benchmark,DIJA,DIJA
+2100001,VNDA2100001,Benchmark,DJTA,DJTA
+2100002,VNDA2100002,Benchmark,DJU,DJU
+2100003,VNDA2100003,Benchmark,Nasdaq-100,Nasdaq-100
+2100005,VNDA2100005,Benchmark,Russell-1000,Russell-1000
+2100006,VNDA2100006,Benchmark,Russell-2000,Russell-2000
+2100007,VNDA2100007,Benchmark,Russell-3000,Russell-3000
+2100004,VNDA2100004,Benchmark,S&P500,S&P500
+2000141,VNDA2000141,Benchmark Industry,DIJA (Aerospace & Defense),DIJA (Aerospace & Defense)
+2000190,VNDA2000190,Benchmark Industry,DIJA (Banks),DIJA (Banks)
+2000282,VNDA2000282,Benchmark Industry,DIJA (Beverages),DIJA (Beverages)
+2000435,VNDA2000435,Benchmark Industry,DIJA (Biotechnology),DIJA (Biotechnology)
+2000441,VNDA2000441,Benchmark Industry,DIJA (Broadline Retail),DIJA (Broadline Retail)
+2000426,VNDA2000426,Benchmark Industry,DIJA (Capital Markets),DIJA (Capital Markets)
+2000205,VNDA2000205,Benchmark Industry,DIJA (Chemicals),DIJA (Chemicals)
+2000235,VNDA2000235,Benchmark Industry,DIJA (Communications Equipment),DIJA (Communications Equipment)
+2000373,VNDA2000373,Benchmark Industry,DIJA (Consumer Finance),DIJA (Consumer Finance)
+2000318,VNDA2000318,Benchmark Industry,DIJA (Consumer Staples Distribution & Retail),DIJA (Consumer Staples Distribution & Retail)
+2000195,VNDA2000195,Benchmark Industry,DIJA (Diversified Telecommunication Services),DIJA (Diversified Telecommunication Services)
+2000363,VNDA2000363,Benchmark Industry,DIJA (Entertainment),DIJA (Entertainment)
+2000427,VNDA2000427,Benchmark Industry,DIJA (Financial Services),DIJA (Financial Services)
+2000378,VNDA2000378,Benchmark Industry,DIJA (Food Products),Dow Jones Industrial Average (Food Products)
+2000420,VNDA2000420,Benchmark Industry,DIJA (Health Care Providers & Services),DIJA (Health Care Providers & Services)
+2000108,VNDA2000108,Benchmark Industry,"DIJA (Hotels, Restaurants & Leisure)","DIJA (Hotels, Restaurants & Leisure)"
+2000220,VNDA2000220,Benchmark Industry,DIJA (Household Products),DIJA (Household Products)
+2000114,VNDA2000114,Benchmark Industry,DIJA (IT Services),DIJA (IT Services)
+2000103,VNDA2000103,Benchmark Industry,DIJA (Industrial Conglomerates),DIJA (Industrial Conglomerates)
+2000155,VNDA2000155,Benchmark Industry,DIJA (Insurance),DIJA (Insurance)
+2000229,VNDA2000229,Benchmark Industry,DIJA (Machinery),DIJA (Machinery)
+2000162,VNDA2000162,Benchmark Industry,"DIJA (Oil, Gas & Consumable Fuels)","DIJA (Oil, Gas & Consumable Fuels)"
+2000124,VNDA2000124,Benchmark Industry,DIJA (Pharmaceuticals),DIJA (Pharmaceuticals)
+2000070,VNDA2000070,Benchmark Industry,DIJA (Semiconductors & Semiconductor Equipment),DIJA (Semiconductors & Semiconductor Equipment)
+2000255,VNDA2000255,Benchmark Industry,DIJA (Software),DIJA (Software)
+2000130,VNDA2000130,Benchmark Industry,DIJA (Specialty Retail),DIJA (Specialty Retail)
+2000353,VNDA2000353,Benchmark Industry,"DIJA (Technology Hardware, Storage & Peripherals)","DIJA (Technology Hardware, Storage & Peripherals)"
+2000425,VNDA2000425,Benchmark Industry,"DIJA (Textiles, Apparel & Luxury Goods)","DIJA (Textiles, Apparel & Luxury Goods)"
+2000287,VNDA2000287,Benchmark Industry,DJTA (Air Freight & Logistics),DJTA (Air Freight & Logistics)
+2000329,VNDA2000329,Benchmark Industry,DJTA (Ground Transportation),DJTA (Ground Transportation)
+2000151,VNDA2000151,Benchmark Industry,DJTA (Marine Transportation),DJTA (Marine Transportation)
+2000163,VNDA2000163,Benchmark Industry,"DJTA (Oil, Gas & Consumable Fuels)","DJTA (Oil, Gas & Consumable Fuels)"
+2000250,VNDA2000250,Benchmark Industry,DJTA (Passenger Airlines),DJTA (Passenger Airlines)
+2000271,VNDA2000271,Benchmark Industry,DJTA (Trading Companies & Distributors),DJTA (Trading Companies & Distributors)
+2000277,VNDA2000277,Benchmark Industry,DJU (Electric Utilities),DJU (Electric Utilities)
+2000437,VNDA2000437,Benchmark Industry,DJU (Gas Utilities),DJU (Gas Utilities)
+2000211,VNDA2000211,Benchmark Industry,DJU (Independent Power and Renewable Electricity Producers),DJU (Independent Power and Renewable Electricity Producers)
+2000146,VNDA2000146,Benchmark Industry,DJU (Multi-Utilities),DJU (Multi-Utilities)
+2000164,VNDA2000164,Benchmark Industry,"DJU (Oil, Gas & Consumable Fuels)","DJU (Oil, Gas & Consumable Fuels)"
+2000428,VNDA2000428,Benchmark Industry,DJU (Water Utilities),DJU (Water Utilities)
+2000444,VNDA2000444,Benchmark Industry,Nasdaq-100 (Aerospace & Defense),Nasdaq-100 (Aerospace & Defense)
+2000288,VNDA2000288,Benchmark Industry,Nasdaq-100 (Air Freight & Logistics),Nasdaq-100 (Air Freight & Logistics)
+2000424,VNDA2000424,Benchmark Industry,Nasdaq-100 (Automobiles),Nasdaq-100 (Automobiles)
+2000419,VNDA2000419,Benchmark Industry,Nasdaq-100 (Beverages),Nasdaq-100 (Beverages)
+2000185,VNDA2000185,Benchmark Industry,Nasdaq-100 (Biotechnology),Nasdaq-100 (Biotechnology)
+2000261,VNDA2000261,Benchmark Industry,Nasdaq-100 (Broadline Retail),Nasdaq-100 (Broadline Retail)
+2000206,VNDA2000206,Benchmark Industry,Nasdaq-100 (Chemicals),Nasdaq-100 (Chemicals)
+2000136,VNDA2000136,Benchmark Industry,Nasdaq-100 (Commercial Services & Supplies),Nasdaq-100 (Commercial Services & Supplies)
+2000236,VNDA2000236,Benchmark Industry,Nasdaq-100 (Communications Equipment),Nasdaq-100 (Communications Equipment)
+2000245,VNDA2000245,Benchmark Industry,Nasdaq-100 (Construction & Engineering),Nasdaq-100 (Construction & Engineering)
+2000319,VNDA2000319,Benchmark Industry,Nasdaq-100 (Consumer Staples Distribution & Retail),Nasdaq-100 (Consumer Staples Distribution & Retail)
+2000076,VNDA2000076,Benchmark Industry,Nasdaq-100 (Diversified Consumer Services),Nasdaq-100 (Diversified Consumer Services)
+2000422,VNDA2000422,Benchmark Industry,Nasdaq-100 (Diversified Telecommunication Services),Nasdaq-100 (Diversified Telecommunication Services)
+2000432,VNDA2000432,Benchmark Industry,Nasdaq-100 (Electric Utilities),Nasdaq-100 (Electric Utilities)
+2000200,VNDA2000200,Benchmark Industry,"Nasdaq-100 (Electronic Equipment, Instruments & Components)","Nasdaq-100 (Electronic Equipment, Instruments & Components)"
+2000439,VNDA2000439,Benchmark Industry,Nasdaq-100 (Energy Equipment & Services),Nasdaq-100 (Energy Equipment & Services)
+2000364,VNDA2000364,Benchmark Industry,Nasdaq-100 (Entertainment),Nasdaq-100 (Entertainment)
+2000324,VNDA2000324,Benchmark Industry,Nasdaq-100 (Financial Services),Nasdaq-100 (Financial Services)
+2000415,VNDA2000415,Benchmark Industry,Nasdaq-100 (Food Products),Nasdaq-100 (Food Products)
+2000330,VNDA2000330,Benchmark Industry,Nasdaq-100 (Ground Transportation),Nasdaq-100 (Ground Transportation)
+2000065,VNDA2000065,Benchmark Industry,Nasdaq-100 (Health Care Equipment & Supplies),Nasdaq-100 (Health Care Equipment & Supplies)
+2000335,VNDA2000335,Benchmark Industry,Nasdaq-100 (Health Care Providers & Services),Nasdaq-100 (Health Care Providers & Services)
+2000359,VNDA2000359,Benchmark Industry,Nasdaq-100 (Health Care Technology),Nasdaq-100 (Health Care Technology)
+2000109,VNDA2000109,Benchmark Industry,"Nasdaq-100 (Hotels, Restaurants & Leisure)","Nasdaq-100 (Hotels, Restaurants & Leisure)"
+2000173,VNDA2000173,Benchmark Industry,Nasdaq-100 (Household Durables),Nasdaq-100 (Household Durables)
+2000115,VNDA2000115,Benchmark Industry,Nasdaq-100 (IT Services),Nasdaq-100 (IT Services)
+2000436,VNDA2000436,Benchmark Industry,Nasdaq-100 (Industrial Conglomerates),Nasdaq-100 (Industrial Conglomerates)
+2000433,VNDA2000433,Benchmark Industry,Nasdaq-100 (Insurance),Nasdaq-100 (Insurance)
+2000085,VNDA2000085,Benchmark Industry,Nasdaq-100 (Interactive Media & Services),Nasdaq-100 (Interactive Media & Services)
+2000348,VNDA2000348,Benchmark Industry,Nasdaq-100 (Leisure Products),Nasdaq-100 (Leisure Products)
+2000304,VNDA2000304,Benchmark Industry,Nasdaq-100 (Life Sciences Tools & Services),Nasdaq-100 (Life Sciences Tools & Services)
+2000230,VNDA2000230,Benchmark Industry,Nasdaq-100 (Machinery),Nasdaq-100 (Machinery)
+2000313,VNDA2000313,Benchmark Industry,Nasdaq-100 (Media),Nasdaq-100 (Media)
+2000418,VNDA2000418,Benchmark Industry,Nasdaq-100 (Metals & Mining),Nasdaq-100 (Metals & Mining)
+2000440,VNDA2000440,Benchmark Industry,"Nasdaq-100 (Oil, Gas & Consumable Fuels)","Nasdaq-100 (Oil, Gas & Consumable Fuels)"
+2000429,VNDA2000429,Benchmark Industry,Nasdaq-100 (Passenger Airlines),Nasdaq-100 (Passenger Airlines)
+2000125,VNDA2000125,Benchmark Industry,Nasdaq-100 (Pharmaceuticals),Nasdaq-100 (Pharmaceuticals)
+2000266,VNDA2000266,Benchmark Industry,Nasdaq-100 (Professional Services),Nasdaq-100 (Professional Services)
+2000434,VNDA2000434,Benchmark Industry,Nasdaq-100 (Real Estate Management & Development),Nasdaq-100 (Real Estate Management & Development)
+2000071,VNDA2000071,Benchmark Industry,Nasdaq-100 (Semiconductors & Semiconductor Equipment),Nasdaq-100 (Semiconductors & Semiconductor Equipment)
+2000256,VNDA2000256,Benchmark Industry,Nasdaq-100 (Software),Nasdaq-100 (Software)
+2000423,VNDA2000423,Benchmark Industry,Nasdaq-100 (Specialized REITs),Nasdaq-100 (Specialized REITs)
+2000131,VNDA2000131,Benchmark Industry,Nasdaq-100 (Specialty Retail),Nasdaq-100 (Specialty Retail)
+2000354,VNDA2000354,Benchmark Industry,"Nasdaq-100 (Technology Hardware, Storage & Peripherals)","Nasdaq-100 (Technology Hardware, Storage & Peripherals)"
+2000417,VNDA2000417,Benchmark Industry,"Nasdaq-100 (Textiles, Apparel & Luxury Goods)","Nasdaq-100 (Textiles, Apparel & Luxury Goods)"
+2000272,VNDA2000272,Benchmark Industry,Nasdaq-100 (Trading Companies & Distributors),Nasdaq-100 (Trading Companies & Distributors)
+2000090,VNDA2000090,Benchmark Industry,Nasdaq-100 (Wireless Telecommunication Services),Nasdaq-100 (Wireless Telecommunication Services)
+2000143,VNDA2000143,Benchmark Industry,Russell-1000 (Aerospace & Defense),Russell-1000 (Aerospace & Defense)
+2000290,VNDA2000290,Benchmark Industry,Russell-1000 (Air Freight & Logistics),Russell-1000 (Air Freight & Logistics)
+2000384,VNDA2000384,Benchmark Industry,Russell-1000 (Automobile Components),Russell-1000 (Automobile Components)
+2000301,VNDA2000301,Benchmark Industry,Russell-1000 (Automobiles),Russell-1000 (Automobiles)
+2000192,VNDA2000192,Benchmark Industry,Russell-1000 (Banks),Russell-1000 (Banks)
+2000284,VNDA2000284,Benchmark Industry,Russell-1000 (Beverages),Russell-1000 (Beverages)
+2000187,VNDA2000187,Benchmark Industry,Russell-1000 (Biotechnology),Russell-1000 (Biotechnology)
+2000263,VNDA2000263,Benchmark Industry,Russell-1000 (Broadline Retail),Russell-1000 (Broadline Retail)
+2000391,VNDA2000391,Benchmark Industry,Russell-1000 (Building Products),Russell-1000 (Building Products)
+2000121,VNDA2000121,Benchmark Industry,Russell-1000 (Capital Markets),Russell-1000 (Capital Markets)
+2000208,VNDA2000208,Benchmark Industry,Russell-1000 (Chemicals),Russell-1000 (Chemicals)
+2000138,VNDA2000138,Benchmark Industry,Russell-1000 (Commercial Services & Supplies),Russell-1000 (Commercial Services & Supplies)
+2000238,VNDA2000238,Benchmark Industry,Russell-1000 (Communications Equipment),Russell-1000 (Communications Equipment)
+2000247,VNDA2000247,Benchmark Industry,Russell-1000 (Construction & Engineering),Russell-1000 (Construction & Engineering)
+2000217,VNDA2000217,Benchmark Industry,Russell-1000 (Construction Materials),Russell-1000 (Construction Materials)
+2000375,VNDA2000375,Benchmark Industry,Russell-1000 (Consumer Finance),Russell-1000 (Consumer Finance)
+2000321,VNDA2000321,Benchmark Industry,Russell-1000 (Consumer Staples Distribution & Retail),Russell-1000 (Consumer Staples Distribution & Retail)
+2000170,VNDA2000170,Benchmark Industry,Russell-1000 (Containers & Packaging),Russell-1000 (Containers & Packaging)
+2000406,VNDA2000406,Benchmark Industry,Russell-1000 (Distributors),Russell-1000 (Distributors)
+2000078,VNDA2000078,Benchmark Industry,Russell-1000 (Diversified Consumer Services),Russell-1000 (Diversified Consumer Services)
+2000387,VNDA2000387,Benchmark Industry,Russell-1000 (Diversified REITs),Russell-1000 (Diversified REITs)
+2000197,VNDA2000197,Benchmark Industry,Russell-1000 (Diversified Telecommunication Services),Russell-1000 (Diversified Telecommunication Services)
+2000279,VNDA2000279,Benchmark Industry,Russell-1000 (Electric Utilities),Russell-1000 (Electric Utilities)
+2000226,VNDA2000226,Benchmark Industry,Russell-1000 (Electrical Equipment),Russell-1000 (Electrical Equipment)
+2000202,VNDA2000202,Benchmark Industry,"Russell-1000 (Electronic Equipment, Instruments & Components)","Russell-1000 (Electronic Equipment, Instruments & Components)"
+2000082,VNDA2000082,Benchmark Industry,Russell-1000 (Energy Equipment & Services),Russell-1000 (Energy Equipment & Services)
+2000366,VNDA2000366,Benchmark Industry,Russell-1000 (Entertainment),Russell-1000 (Entertainment)
+2000326,VNDA2000326,Benchmark Industry,Russell-1000 (Financial Services),Russell-1000 (Financial Services)
+2000380,VNDA2000380,Benchmark Industry,Russell-1000 (Food Products),Russell-1000 (Food Products)
+2000341,VNDA2000341,Benchmark Industry,Russell-1000 (Gas Utilities),Russell-1000 (Gas Utilities)
+2000332,VNDA2000332,Benchmark Industry,Russell-1000 (Ground Transportation),Russell-1000 (Ground Transportation)
+2000067,VNDA2000067,Benchmark Industry,Russell-1000 (Health Care Equipment & Supplies),Russell-1000 (Health Care Equipment & Supplies)
+2000337,VNDA2000337,Benchmark Industry,Russell-1000 (Health Care Providers & Services),Russell-1000 (Health Care Providers & Services)
+2000410,VNDA2000410,Benchmark Industry,Russell-1000 (Health Care REITs),Russell-1000 (Health Care REITs)
+2000360,VNDA2000360,Benchmark Industry,Russell-1000 (Health Care Technology),Russell-1000 (Health Care Technology)
+2000310,VNDA2000310,Benchmark Industry,Russell-1000 (Hotel & Resort REITs),Russell-1000 (Hotel & Resort REITs)
+2000111,VNDA2000111,Benchmark Industry,"Russell-1000 (Hotels, Restaurants & Leisure)","Russell-1000 (Hotels, Restaurants & Leisure)"
+2000175,VNDA2000175,Benchmark Industry,Russell-1000 (Household Durables),Russell-1000 (Household Durables)
+2000222,VNDA2000222,Benchmark Industry,Russell-1000 (Household Products),Russell-1000 (Household Products)
+2000117,VNDA2000117,Benchmark Industry,Russell-1000 (IT Services),Russell-1000 (IT Services)
+2000213,VNDA2000213,Benchmark Industry,Russell-1000 (Independent Power and Renewable Electricity Producers),Russell-1000 (Independent Power and Renewable Electricity Producers)
+2000105,VNDA2000105,Benchmark Industry,Russell-1000 (Industrial Conglomerates),Russell-1000 (Industrial Conglomerates)
+2000398,VNDA2000398,Benchmark Industry,Russell-1000 (Industrial REITs),Russell-1000 (Industrial REITs)
+2000157,VNDA2000157,Benchmark Industry,Russell-1000 (Insurance),Russell-1000 (Insurance)
+2000087,VNDA2000087,Benchmark Industry,Russell-1000 (Interactive Media & Services),Russell-1000 (Interactive Media & Services)
+2000350,VNDA2000350,Benchmark Industry,Russell-1000 (Leisure Products),Russell-1000 (Leisure Products)
+2000306,VNDA2000306,Benchmark Industry,Russell-1000 (Life Sciences Tools & Services),Russell-1000 (Life Sciences Tools & Services)
+2000232,VNDA2000232,Benchmark Industry,Russell-1000 (Machinery),Russell-1000 (Machinery)
+2000152,VNDA2000152,Benchmark Industry,Russell-1000 (Marine Transportation),Russell-1000 (Marine Transportation)
+2000315,VNDA2000315,Benchmark Industry,Russell-1000 (Media),Russell-1000 (Media)
+2000242,VNDA2000242,Benchmark Industry,Russell-1000 (Metals & Mining),Russell-1000 (Metals & Mining)
+2000182,VNDA2000182,Benchmark Industry,Russell-1000 (Mortgage Real Estate Investment Trusts (REITs)),Russell-1000 (Mortgage Real Estate Investment Trusts (REITs))
+2000148,VNDA2000148,Benchmark Industry,Russell-1000 (Multi-Utilities),Russell-1000 (Multi-Utilities)
+2000345,VNDA2000345,Benchmark Industry,Russell-1000 (Office REITs),Russell-1000 (Office REITs)
+2000166,VNDA2000166,Benchmark Industry,"Russell-1000 (Oil, Gas & Consumable Fuels)","Russell-1000 (Oil, Gas & Consumable Fuels)"
+2000414,VNDA2000414,Benchmark Industry,Russell-1000 (Paper & Forest Products),Russell-1000 (Paper & Forest Products)
+2000252,VNDA2000252,Benchmark Industry,Russell-1000 (Passenger Airlines),Russell-1000 (Passenger Airlines)
+2000100,VNDA2000100,Benchmark Industry,Russell-1000 (Personal Care Products),Russell-1000 (Personal Care Products)
+2000127,VNDA2000127,Benchmark Industry,Russell-1000 (Pharmaceuticals),Russell-1000 (Pharmaceuticals)
+2000268,VNDA2000268,Benchmark Industry,Russell-1000 (Professional Services),Russell-1000 (Professional Services)
+2000294,VNDA2000294,Benchmark Industry,Russell-1000 (Real Estate Management & Development),Russell-1000 (Real Estate Management & Development)
+2000370,VNDA2000370,Benchmark Industry,Russell-1000 (Residential REITs),Russell-1000 (Residential REITs)
+2000402,VNDA2000402,Benchmark Industry,Russell-1000 (Retail REITs),Russell-1000 (Retail REITs)
+2000073,VNDA2000073,Benchmark Industry,Russell-1000 (Semiconductors & Semiconductor Equipment),Russell-1000 (Semiconductors & Semiconductor Equipment)
+2000258,VNDA2000258,Benchmark Industry,Russell-1000 (Software),Russell-1000 (Software)
+2000395,VNDA2000395,Benchmark Industry,Russell-1000 (Specialized REITs),Russell-1000 (Specialized REITs)
+2000133,VNDA2000133,Benchmark Industry,Russell-1000 (Specialty Retail),Russell-1000 (Specialty Retail)
+2000356,VNDA2000356,Benchmark Industry,"Russell-1000 (Technology Hardware, Storage & Peripherals)","Russell-1000 (Technology Hardware, Storage & Peripherals)"
+2000096,VNDA2000096,Benchmark Industry,"Russell-1000 (Textiles, Apparel & Luxury Goods)","Russell-1000 (Textiles, Apparel & Luxury Goods)"
+2000179,VNDA2000179,Benchmark Industry,Russell-1000 (Tobacco),Russell-1000 (Tobacco)
+2000274,VNDA2000274,Benchmark Industry,Russell-1000 (Trading Companies & Distributors),Russell-1000 (Trading Companies & Distributors)
+2000297,VNDA2000297,Benchmark Industry,Russell-1000 (Water Utilities),Russell-1000 (Water Utilities)
+2000092,VNDA2000092,Benchmark Industry,Russell-1000 (Wireless Telecommunication Services),Russell-1000 (Wireless Telecommunication Services)
+2000144,VNDA2000144,Benchmark Industry,Russell-2000 (Aerospace & Defense),Russell-2000 (Aerospace & Defense)
+2000291,VNDA2000291,Benchmark Industry,Russell-2000 (Air Freight & Logistics),Russell-2000 (Air Freight & Logistics)
+2000385,VNDA2000385,Benchmark Industry,Russell-2000 (Automobile Components),Russell-2000 (Automobile Components)
+2000302,VNDA2000302,Benchmark Industry,Russell-2000 (Automobiles),Russell-2000 (Automobiles)
+2000193,VNDA2000193,Benchmark Industry,Russell-2000 (Banks),Russell-2000 (Banks)
+2000285,VNDA2000285,Benchmark Industry,Russell-2000 (Beverages),Russell-2000 (Beverages)
+2000188,VNDA2000188,Benchmark Industry,Russell-2000 (Biotechnology),Russell-2000 (Biotechnology)
+2000264,VNDA2000264,Benchmark Industry,Russell-2000 (Broadline Retail),Russell-2000 (Broadline Retail)
+2000392,VNDA2000392,Benchmark Industry,Russell-2000 (Building Products),Russell-2000 (Building Products)
+2000122,VNDA2000122,Benchmark Industry,Russell-2000 (Capital Markets),Russell-2000 (Capital Markets)
+2000209,VNDA2000209,Benchmark Industry,Russell-2000 (Chemicals),Russell-2000 (Chemicals)
+2000139,VNDA2000139,Benchmark Industry,Russell-2000 (Commercial Services & Supplies),Russell-2000 (Commercial Services & Supplies)
+2000239,VNDA2000239,Benchmark Industry,Russell-2000 (Communications Equipment),Russell-2000 (Communications Equipment)
+2000248,VNDA2000248,Benchmark Industry,Russell-2000 (Construction & Engineering),Russell-2000 (Construction & Engineering)
+2000218,VNDA2000218,Benchmark Industry,Russell-2000 (Construction Materials),Russell-2000 (Construction Materials)
+2000376,VNDA2000376,Benchmark Industry,Russell-2000 (Consumer Finance),Russell-2000 (Consumer Finance)
+2000322,VNDA2000322,Benchmark Industry,Russell-2000 (Consumer Staples Distribution & Retail),Russell-2000 (Consumer Staples Distribution & Retail)
+2000171,VNDA2000171,Benchmark Industry,Russell-2000 (Containers & Packaging),Russell-2000 (Containers & Packaging)
+2000407,VNDA2000407,Benchmark Industry,Russell-2000 (Distributors),Russell-2000 (Distributors)
+2000079,VNDA2000079,Benchmark Industry,Russell-2000 (Diversified Consumer Services),Russell-2000 (Diversified Consumer Services)
+2000388,VNDA2000388,Benchmark Industry,Russell-2000 (Diversified REITs),Russell-2000 (Diversified REITs)
+2000198,VNDA2000198,Benchmark Industry,Russell-2000 (Diversified Telecommunication Services),Russell-2000 (Diversified Telecommunication Services)
+2000280,VNDA2000280,Benchmark Industry,Russell-2000 (Electric Utilities),Russell-2000 (Electric Utilities)
+2000227,VNDA2000227,Benchmark Industry,Russell-2000 (Electrical Equipment),Russell-2000 (Electrical Equipment)
+2000203,VNDA2000203,Benchmark Industry,"Russell-2000 (Electronic Equipment, Instruments & Components)","Russell-2000 (Electronic Equipment, Instruments & Components)"
+2000083,VNDA2000083,Benchmark Industry,Russell-2000 (Energy Equipment & Services),Russell-2000 (Energy Equipment & Services)
+2000367,VNDA2000367,Benchmark Industry,Russell-2000 (Entertainment),Russell-2000 (Entertainment)
+2000327,VNDA2000327,Benchmark Industry,Russell-2000 (Financial Services),Russell-2000 (Financial Services)
+2000381,VNDA2000381,Benchmark Industry,Russell-2000 (Food Products),Russell-2000 (Food Products)
+2000342,VNDA2000342,Benchmark Industry,Russell-2000 (Gas Utilities),Russell-2000 (Gas Utilities)
+2000333,VNDA2000333,Benchmark Industry,Russell-2000 (Ground Transportation),Russell-2000 (Ground Transportation)
+2000068,VNDA2000068,Benchmark Industry,Russell-2000 (Health Care Equipment & Supplies),Russell-2000 (Health Care Equipment & Supplies)
+2000338,VNDA2000338,Benchmark Industry,Russell-2000 (Health Care Providers & Services),Russell-2000 (Health Care Providers & Services)
+2000411,VNDA2000411,Benchmark Industry,Russell-2000 (Health Care REITs),Russell-2000 (Health Care REITs)
+2000361,VNDA2000361,Benchmark Industry,Russell-2000 (Health Care Technology),Russell-2000 (Health Care Technology)
+2000311,VNDA2000311,Benchmark Industry,Russell-2000 (Hotel & Resort REITs),Russell-2000 (Hotel & Resort REITs)
+2000112,VNDA2000112,Benchmark Industry,"Russell-2000 (Hotels, Restaurants & Leisure)","Russell-2000 (Hotels, Restaurants & Leisure)"
+2000176,VNDA2000176,Benchmark Industry,Russell-2000 (Household Durables),Russell-2000 (Household Durables)
+2000223,VNDA2000223,Benchmark Industry,Russell-2000 (Household Products),Russell-2000 (Household Products)
+2000118,VNDA2000118,Benchmark Industry,Russell-2000 (IT Services),Russell-2000 (IT Services)
+2000214,VNDA2000214,Benchmark Industry,Russell-2000 (Independent Power and Renewable Electricity Producers),Russell-2000 (Independent Power and Renewable Electricity Producers)
+2000106,VNDA2000106,Benchmark Industry,Russell-2000 (Industrial Conglomerates),Russell-2000 (Industrial Conglomerates)
+2000399,VNDA2000399,Benchmark Industry,Russell-2000 (Industrial REITs),Russell-2000 (Industrial REITs)
+2000158,VNDA2000158,Benchmark Industry,Russell-2000 (Insurance),Russell-2000 (Insurance)
+2000088,VNDA2000088,Benchmark Industry,Russell-2000 (Interactive Media & Services),Russell-2000 (Interactive Media & Services)
+2000351,VNDA2000351,Benchmark Industry,Russell-2000 (Leisure Products),Russell-2000 (Leisure Products)
+2000307,VNDA2000307,Benchmark Industry,Russell-2000 (Life Sciences Tools & Services),Russell-2000 (Life Sciences Tools & Services)
+2000233,VNDA2000233,Benchmark Industry,Russell-2000 (Machinery),Russell-2000 (Machinery)
+2000153,VNDA2000153,Benchmark Industry,Russell-2000 (Marine Transportation),Russell-2000 (Marine Transportation)
+2000316,VNDA2000316,Benchmark Industry,Russell-2000 (Media),Russell-2000 (Media)
+2000243,VNDA2000243,Benchmark Industry,Russell-2000 (Metals & Mining),Russell-2000 (Metals & Mining)
+2000183,VNDA2000183,Benchmark Industry,Russell-2000 (Mortgage Real Estate Investment Trusts (REITs)),Russell-2000 (Mortgage Real Estate Investment Trusts (REITs))
+2000149,VNDA2000149,Benchmark Industry,Russell-2000 (Multi-Utilities),Russell-2000 (Multi-Utilities)
+2000346,VNDA2000346,Benchmark Industry,Russell-2000 (Office REITs),Russell-2000 (Office REITs)
+2000167,VNDA2000167,Benchmark Industry,"Russell-2000 (Oil, Gas & Consumable Fuels)","Russell-2000 (Oil, Gas & Consumable Fuels)"
+2000160,VNDA2000160,Benchmark Industry,Russell-2000 (Paper & Forest Products),Russell-2000 (Paper & Forest Products)
+2000253,VNDA2000253,Benchmark Industry,Russell-2000 (Passenger Airlines),Russell-2000 (Passenger Airlines)
+2000101,VNDA2000101,Benchmark Industry,Russell-2000 (Personal Care Products),Russell-2000 (Personal Care Products)
+2000128,VNDA2000128,Benchmark Industry,Russell-2000 (Pharmaceuticals),Russell-2000 (Pharmaceuticals)
+2000269,VNDA2000269,Benchmark Industry,Russell-2000 (Professional Services),Russell-2000 (Professional Services)
+2000295,VNDA2000295,Benchmark Industry,Russell-2000 (Real Estate Management & Development),Russell-2000 (Real Estate Management & Development)
+2000371,VNDA2000371,Benchmark Industry,Russell-2000 (Residential REITs),Russell-2000 (Residential REITs)
+2000403,VNDA2000403,Benchmark Industry,Russell-2000 (Retail REITs),Russell-2000 (Retail REITs)
+2000074,VNDA2000074,Benchmark Industry,Russell-2000 (Semiconductors & Semiconductor Equipment),Russell-2000 (Semiconductors & Semiconductor Equipment)
+2000259,VNDA2000259,Benchmark Industry,Russell-2000 (Software),Russell-2000 (Software)
+2000396,VNDA2000396,Benchmark Industry,Russell-2000 (Specialized REITs),Russell-2000 (Specialized REITs)
+2000134,VNDA2000134,Benchmark Industry,Russell-2000 (Specialty Retail),Russell-2000 (Specialty Retail)
+2000357,VNDA2000357,Benchmark Industry,"Russell-2000 (Technology Hardware, Storage & Peripherals)","Russell-2000 (Technology Hardware, Storage & Peripherals)"
+2000097,VNDA2000097,Benchmark Industry,"Russell-2000 (Textiles, Apparel & Luxury Goods)","Russell-2000 (Textiles, Apparel & Luxury Goods)"
+2000180,VNDA2000180,Benchmark Industry,Russell-2000 (Tobacco),Russell-2000 (Tobacco)
+2000275,VNDA2000275,Benchmark Industry,Russell-2000 (Trading Companies & Distributors),Russell-2000 (Trading Companies & Distributors)
+2000442,VNDA2000442,Benchmark Industry,Russell-2000 (Transportation Infrastructure),Russell-2000 (Transportation Infrastructure)
+2000298,VNDA2000298,Benchmark Industry,Russell-2000 (Water Utilities),Russell-2000 (Water Utilities)
+2000093,VNDA2000093,Benchmark Industry,Russell-2000 (Wireless Telecommunication Services),Russell-2000 (Wireless Telecommunication Services)
+2000145,VNDA2000145,Benchmark Industry,Russell-3000 (Aerospace & Defense),Russell-3000 (Aerospace & Defense)
+2000292,VNDA2000292,Benchmark Industry,Russell-3000 (Air Freight & Logistics),Russell-3000 (Air Freight & Logistics)
+2000386,VNDA2000386,Benchmark Industry,Russell-3000 (Automobile Components),Russell-3000 (Automobile Components)
+2000303,VNDA2000303,Benchmark Industry,Russell-3000 (Automobiles),Russell-3000 (Automobiles)
+2000194,VNDA2000194,Benchmark Industry,Russell-3000 (Banks),Russell-3000 (Banks)
+2000286,VNDA2000286,Benchmark Industry,Russell-3000 (Beverages),Russell-3000 (Beverages)
+2000189,VNDA2000189,Benchmark Industry,Russell-3000 (Biotechnology),Russell-3000 (Biotechnology)
+2000265,VNDA2000265,Benchmark Industry,Russell-3000 (Broadline Retail),Russell-3000 (Broadline Retail)
+2000393,VNDA2000393,Benchmark Industry,Russell-3000 (Building Products),Russell-3000 (Building Products)
+2000123,VNDA2000123,Benchmark Industry,Russell-3000 (Capital Markets),Russell-3000 (Capital Markets)
+2000210,VNDA2000210,Benchmark Industry,Russell-3000 (Chemicals),Russell-3000 (Chemicals)
+2000140,VNDA2000140,Benchmark Industry,Russell-3000 (Commercial Services & Supplies),Russell-3000 (Commercial Services & Supplies)
+2000240,VNDA2000240,Benchmark Industry,Russell-3000 (Communications Equipment),Russell-3000 (Communications Equipment)
+2000249,VNDA2000249,Benchmark Industry,Russell-3000 (Construction & Engineering),Russell-3000 (Construction & Engineering)
+2000219,VNDA2000219,Benchmark Industry,Russell-3000 (Construction Materials),Russell-3000 (Construction Materials)
+2000377,VNDA2000377,Benchmark Industry,Russell-3000 (Consumer Finance),Russell-3000 (Consumer Finance)
+2000323,VNDA2000323,Benchmark Industry,Russell-3000 (Consumer Staples Distribution & Retail),Russell-3000 (Consumer Staples Distribution & Retail)
+2000172,VNDA2000172,Benchmark Industry,Russell-3000 (Containers & Packaging),Russell-3000 (Containers & Packaging)
+2000408,VNDA2000408,Benchmark Industry,Russell-3000 (Distributors),Russell-3000 (Distributors)
+2000080,VNDA2000080,Benchmark Industry,Russell-3000 (Diversified Consumer Services),Russell-3000 (Diversified Consumer Services)
+2000389,VNDA2000389,Benchmark Industry,Russell-3000 (Diversified REITs),Russell-3000 (Diversified REITs)
+2000199,VNDA2000199,Benchmark Industry,Russell-3000 (Diversified Telecommunication Services),Russell-3000 (Diversified Telecommunication Services)
+2000281,VNDA2000281,Benchmark Industry,Russell-3000 (Electric Utilities),Russell-3000 (Electric Utilities)
+2000228,VNDA2000228,Benchmark Industry,Russell-3000 (Electrical Equipment),Russell-3000 (Electrical Equipment)
+2000204,VNDA2000204,Benchmark Industry,"Russell-3000 (Electronic Equipment, Instruments & Components)","Russell-3000 (Electronic Equipment, Instruments & Components)"
+2000084,VNDA2000084,Benchmark Industry,Russell-3000 (Energy Equipment & Services),Russell-3000 (Energy Equipment & Services)
+2000368,VNDA2000368,Benchmark Industry,Russell-3000 (Entertainment),Russell-3000 (Entertainment)
+2000328,VNDA2000328,Benchmark Industry,Russell-3000 (Financial Services),Russell-3000 (Financial Services)
+2000382,VNDA2000382,Benchmark Industry,Russell-3000 (Food Products),Russell-3000 (Food Products)
+2000343,VNDA2000343,Benchmark Industry,Russell-3000 (Gas Utilities),Russell-3000 (Gas Utilities)
+2000334,VNDA2000334,Benchmark Industry,Russell-3000 (Ground Transportation),Russell-3000 (Ground Transportation)
+2000069,VNDA2000069,Benchmark Industry,Russell-3000 (Health Care Equipment & Supplies),Russell-3000 (Health Care Equipment & Supplies)
+2000339,VNDA2000339,Benchmark Industry,Russell-3000 (Health Care Providers & Services),Russell-3000 (Health Care Providers & Services)
+2000412,VNDA2000412,Benchmark Industry,Russell-3000 (Health Care REITs),Russell-3000 (Health Care REITs)
+2000362,VNDA2000362,Benchmark Industry,Russell-3000 (Health Care Technology),Russell-3000 (Health Care Technology)
+2000312,VNDA2000312,Benchmark Industry,Russell-3000 (Hotel & Resort REITs),Russell-3000 (Hotel & Resort REITs)
+2000113,VNDA2000113,Benchmark Industry,"Russell-3000 (Hotels, Restaurants & Leisure)","Russell-3000 (Hotels, Restaurants & Leisure)"
+2000177,VNDA2000177,Benchmark Industry,Russell-3000 (Household Durables),Russell-3000 (Household Durables)
+2000224,VNDA2000224,Benchmark Industry,Russell-3000 (Household Products),Russell-3000 (Household Products)
+2000119,VNDA2000119,Benchmark Industry,Russell-3000 (IT Services),Russell-3000 (IT Services)
+2000215,VNDA2000215,Benchmark Industry,Russell-3000 (Independent Power and Renewable Electricity Producers),Russell-3000 (Independent Power and Renewable Electricity Producers)
+2000107,VNDA2000107,Benchmark Industry,Russell-3000 (Industrial Conglomerates),Russell-3000 (Industrial Conglomerates)
+2000400,VNDA2000400,Benchmark Industry,Russell-3000 (Industrial REITs),Russell-3000 (Industrial REITs)
+2000159,VNDA2000159,Benchmark Industry,Russell-3000 (Insurance),Russell-3000 (Insurance)
+2000089,VNDA2000089,Benchmark Industry,Russell-3000 (Interactive Media & Services),Russell-3000 (Interactive Media & Services)
+2000352,VNDA2000352,Benchmark Industry,Russell-3000 (Leisure Products),Russell-3000 (Leisure Products)
+2000308,VNDA2000308,Benchmark Industry,Russell-3000 (Life Sciences Tools & Services),Russell-3000 (Life Sciences Tools & Services)
+2000234,VNDA2000234,Benchmark Industry,Russell-3000 (Machinery),Russell-3000 (Machinery)
+2000154,VNDA2000154,Benchmark Industry,Russell-3000 (Marine Transportation),Russell-3000 (Marine Transportation)
+2000317,VNDA2000317,Benchmark Industry,Russell-3000 (Media),Russell-3000 (Media)
+2000244,VNDA2000244,Benchmark Industry,Russell-3000 (Metals & Mining),Russell-3000 (Metals & Mining)
+2000184,VNDA2000184,Benchmark Industry,Russell-3000 (Mortgage Real Estate Investment Trusts (REITs)),Russell-3000 (Mortgage Real Estate Investment Trusts (REITs))
+2000150,VNDA2000150,Benchmark Industry,Russell-3000 (Multi-Utilities),Russell-3000 (Multi-Utilities)
+2000347,VNDA2000347,Benchmark Industry,Russell-3000 (Office REITs),Russell-3000 (Office REITs)
+2000168,VNDA2000168,Benchmark Industry,"Russell-3000 (Oil, Gas & Consumable Fuels)","Russell-3000 (Oil, Gas & Consumable Fuels)"
+2000161,VNDA2000161,Benchmark Industry,Russell-3000 (Paper & Forest Products),Russell-3000 (Paper & Forest Products)
+2000254,VNDA2000254,Benchmark Industry,Russell-3000 (Passenger Airlines),Russell-3000 (Passenger Airlines)
+2000102,VNDA2000102,Benchmark Industry,Russell-3000 (Personal Care Products),Russell-3000 (Personal Care Products)
+2000129,VNDA2000129,Benchmark Industry,Russell-3000 (Pharmaceuticals),Russell-3000 (Pharmaceuticals)
+2000270,VNDA2000270,Benchmark Industry,Russell-3000 (Professional Services),Russell-3000 (Professional Services)
+2000296,VNDA2000296,Benchmark Industry,Russell-3000 (Real Estate Management & Development),Russell-3000 (Real Estate Management & Development)
+2000372,VNDA2000372,Benchmark Industry,Russell-3000 (Residential REITs),Russell-3000 (Residential REITs)
+2000404,VNDA2000404,Benchmark Industry,Russell-3000 (Retail REITs),Russell-3000 (Retail REITs)
+2000075,VNDA2000075,Benchmark Industry,Russell-3000 (Semiconductors & Semiconductor Equipment),Russell-3000 (Semiconductors & Semiconductor Equipment)
+2000260,VNDA2000260,Benchmark Industry,Russell-3000 (Software),Russell-3000 (Software)
+2000397,VNDA2000397,Benchmark Industry,Russell-3000 (Specialized REITs),Russell-3000 (Specialized REITs)
+2000135,VNDA2000135,Benchmark Industry,Russell-3000 (Specialty Retail),Russell-3000 (Specialty Retail)
+2000358,VNDA2000358,Benchmark Industry,"Russell-3000 (Technology Hardware, Storage & Peripherals)","Russell-3000 (Technology Hardware, Storage & Peripherals)"
+2000098,VNDA2000098,Benchmark Industry,"Russell-3000 (Textiles, Apparel & Luxury Goods)","Russell-3000 (Textiles, Apparel & Luxury Goods)"
+2000181,VNDA2000181,Benchmark Industry,Russell-3000 (Tobacco),Russell-3000 (Tobacco)
+2000276,VNDA2000276,Benchmark Industry,Russell-3000 (Trading Companies & Distributors),Russell-3000 (Trading Companies & Distributors)
+2000443,VNDA2000443,Benchmark Industry,Russell-3000 (Transportation Infrastructure),Russell-3000 (Transportation Infrastructure)
+2000299,VNDA2000299,Benchmark Industry,Russell-3000 (Water Utilities),Russell-3000 (Water Utilities)
+2000094,VNDA2000094,Benchmark Industry,Russell-3000 (Wireless Telecommunication Services),Russell-3000 (Wireless Telecommunication Services)
+2000142,VNDA2000142,Benchmark Industry,S&P500 (Aerospace & Defense),S&P500 (Aerospace & Defense)
+2000289,VNDA2000289,Benchmark Industry,S&P500 (Air Freight & Logistics),S&P500 (Air Freight & Logistics)
+2000383,VNDA2000383,Benchmark Industry,S&P500 (Automobile Components),S&P500 (Automobile Components)
+2000300,VNDA2000300,Benchmark Industry,S&P500 (Automobiles),S&P500 (Automobiles)
+2000191,VNDA2000191,Benchmark Industry,S&P500 (Banks),S&P500 (Banks)
+2000283,VNDA2000283,Benchmark Industry,S&P500 (Beverages),S&P500 (Beverages)
+2000186,VNDA2000186,Benchmark Industry,S&P500 (Biotechnology),S&P500 (Biotechnology)
+2000262,VNDA2000262,Benchmark Industry,S&P500 (Broadline Retail),S&P500 (Broadline Retail)
+2000390,VNDA2000390,Benchmark Industry,S&P500 (Building Products),S&P500 (Building Products)
+2000120,VNDA2000120,Benchmark Industry,S&P500 (Capital Markets),S&P500 (Capital Markets)
+2000207,VNDA2000207,Benchmark Industry,S&P500 (Chemicals),S&P500 (Chemicals)
+2000137,VNDA2000137,Benchmark Industry,S&P500 (Commercial Services & Supplies),S&P500 (Commercial Services & Supplies)
+2000237,VNDA2000237,Benchmark Industry,S&P500 (Communications Equipment),S&P500 (Communications Equipment)
+2000246,VNDA2000246,Benchmark Industry,S&P500 (Construction & Engineering),S&P500 (Construction & Engineering)
+2000216,VNDA2000216,Benchmark Industry,S&P500 (Construction Materials),S&P500 (Construction Materials)
+2000374,VNDA2000374,Benchmark Industry,S&P500 (Consumer Finance),S&P500 (Consumer Finance)
+2000320,VNDA2000320,Benchmark Industry,S&P500 (Consumer Staples Distribution & Retail),S&P500 (Consumer Staples Distribution & Retail)
+2000169,VNDA2000169,Benchmark Industry,S&P500 (Containers & Packaging),S&P500 (Containers & Packaging)
+2000405,VNDA2000405,Benchmark Industry,S&P500 (Distributors),S&P500 (Distributors)
+2000077,VNDA2000077,Benchmark Industry,S&P500 (Diversified Consumer Services),S&P500 (Diversified Consumer Services)
+2000196,VNDA2000196,Benchmark Industry,S&P500 (Diversified Telecommunication Services),S&P500 (Diversified Telecommunication Services)
+2000278,VNDA2000278,Benchmark Industry,S&P500 (Electric Utilities),S&P500 (Electric Utilities)
+2000225,VNDA2000225,Benchmark Industry,S&P500 (Electrical Equipment),S&P500 (Electrical Equipment)
+2000201,VNDA2000201,Benchmark Industry,"S&P500 (Electronic Equipment, Instruments & Components)","S&P500 (Electronic Equipment, Instruments & Components)"
+2000081,VNDA2000081,Benchmark Industry,S&P500 (Energy Equipment & Services),S&P500 (Energy Equipment & Services)
+2000365,VNDA2000365,Benchmark Industry,S&P500 (Entertainment),S&P500 (Entertainment)
+2000325,VNDA2000325,Benchmark Industry,S&P500 (Financial Services),S&P500 (Financial Services)
+2000379,VNDA2000379,Benchmark Industry,S&P500 (Food Products),S&P500 (Food Products)
+2000340,VNDA2000340,Benchmark Industry,S&P500 (Gas Utilities),S&P500 (Gas Utilities)
+2000331,VNDA2000331,Benchmark Industry,S&P500 (Ground Transportation),S&P500 (Ground Transportation)
+2000066,VNDA2000066,Benchmark Industry,S&P500 (Health Care Equipment & Supplies),S&P500 (Health Care Equipment & Supplies)
+2000336,VNDA2000336,Benchmark Industry,S&P500 (Health Care Providers & Services),S&P500 (Health Care Providers & Services)
+2000409,VNDA2000409,Benchmark Industry,S&P500 (Health Care REITs),S&P500 (Health Care REITs)
+2000413,VNDA2000413,Benchmark Industry,S&P500 (Health Care Technology),S&P500 (Health Care Technology)
+2000309,VNDA2000309,Benchmark Industry,S&P500 (Hotel & Resort REITs),S&P500 (Hotel & Resort REITs)
+2000110,VNDA2000110,Benchmark Industry,"S&P500 (Hotels, Restaurants & Leisure)","S&P500 (Hotels, Restaurants & Leisure)"
+2000174,VNDA2000174,Benchmark Industry,S&P500 (Household Durables),S&P500 (Household Durables)
+2000221,VNDA2000221,Benchmark Industry,S&P500 (Household Products),S&P500 (Household Products)
+2000116,VNDA2000116,Benchmark Industry,S&P500 (IT Services),S&P500 (IT Services)
+2000212,VNDA2000212,Benchmark Industry,S&P500 (Independent Power and Renewable Electricity Producers),S&P500 (Independent Power and Renewable Electricity Producers)
+2000104,VNDA2000104,Benchmark Industry,S&P500 (Industrial Conglomerates),S&P500 (Industrial Conglomerates)
+2000416,VNDA2000416,Benchmark Industry,S&P500 (Industrial REITs),S&P500 (Industrial REITs)
+2000156,VNDA2000156,Benchmark Industry,S&P500 (Insurance),S&P500 (Insurance)
+2000086,VNDA2000086,Benchmark Industry,S&P500 (Interactive Media & Services),S&P500 (Interactive Media & Services)
+2000349,VNDA2000349,Benchmark Industry,S&P500 (Leisure Products),S&P500 (Leisure Products)
+2000305,VNDA2000305,Benchmark Industry,S&P500 (Life Sciences Tools & Services),S&P500 (Life Sciences Tools & Services)
+2000231,VNDA2000231,Benchmark Industry,S&P500 (Machinery),S&P500 (Machinery)
+2000314,VNDA2000314,Benchmark Industry,S&P500 (Media),S&P500 (Media)
+2000241,VNDA2000241,Benchmark Industry,S&P500 (Metals & Mining),S&P500 (Metals & Mining)
+2000147,VNDA2000147,Benchmark Industry,S&P500 (Multi-Utilities),S&P500 (Multi-Utilities)
+2000344,VNDA2000344,Benchmark Industry,S&P500 (Office REITs),S&P500 (Office REITs)
+2000165,VNDA2000165,Benchmark Industry,"S&P500 (Oil, Gas & Consumable Fuels)","S&P500 (Oil, Gas & Consumable Fuels)"
+2000251,VNDA2000251,Benchmark Industry,S&P500 (Passenger Airlines),S&P500 (Passenger Airlines)
+2000099,VNDA2000099,Benchmark Industry,S&P500 (Personal Care Products),S&P500 (Personal Care Products)
+2000126,VNDA2000126,Benchmark Industry,S&P500 (Pharmaceuticals),S&P500 (Pharmaceuticals)
+2000267,VNDA2000267,Benchmark Industry,S&P500 (Professional Services),S&P500 (Professional Services)
+2000293,VNDA2000293,Benchmark Industry,S&P500 (Real Estate Management & Development),S&P500 (Real Estate Management & Development)
+2000369,VNDA2000369,Benchmark Industry,S&P500 (Residential REITs),S&P500 (Residential REITs)
+2000401,VNDA2000401,Benchmark Industry,S&P500 (Retail REITs),S&P500 (Retail REITs)
+2000072,VNDA2000072,Benchmark Industry,S&P500 (Semiconductors & Semiconductor Equipment),S&P500 (Semiconductors & Semiconductor Equipment)
+2000257,VNDA2000257,Benchmark Industry,S&P500 (Software),S&P500 (Software)
+2000394,VNDA2000394,Benchmark Industry,S&P500 (Specialized REITs),S&P500 (Specialized REITs)
+2000132,VNDA2000132,Benchmark Industry,S&P500 (Specialty Retail),S&P500 (Specialty Retail)
+2000355,VNDA2000355,Benchmark Industry,"S&P500 (Technology Hardware, Storage & Peripherals)","S&P500 (Technology Hardware, Storage & Peripherals)"
+2000095,VNDA2000095,Benchmark Industry,"S&P500 (Textiles, Apparel & Luxury Goods)","S&P500 (Textiles, Apparel & Luxury Goods)"
+2000178,VNDA2000178,Benchmark Industry,S&P500 (Tobacco),S&P500 (Tobacco)
+2000273,VNDA2000273,Benchmark Industry,S&P500 (Trading Companies & Distributors),S&P500 (Trading Companies & Distributors)
+2000430,VNDA2000430,Benchmark Industry,S&P500 (Water Utilities),S&P500 (Water Utilities)
+2000091,VNDA2000091,Benchmark Industry,S&P500 (Wireless Telecommunication Services),S&P500 (Wireless Telecommunication Services)
+2000048,VNDA2000048,Benchmark Sector,DIJA (Communication Services),DIJA (Communication Services)
+2000028,VNDA2000028,Benchmark Sector,DIJA (Consumer Discretionary),DIJA (Consumer Discretionary)
+2000054,VNDA2000054,Benchmark Sector,DIJA (Consumer Staples),DIJA (Consumer Staples)
+2000041,VNDA2000041,Benchmark Sector,DIJA (Energy),DIJA (Energy)
+2000000,VNDA2000000,Benchmark Sector,DIJA (Financials),DIJA (Financials)
+2000012,VNDA2000012,Benchmark Sector,DIJA (Health Care),DIJA (Health Care)
+2000034,VNDA2000034,Benchmark Sector,DIJA (Industrials),DIJA (Industrials)
+2000022,VNDA2000022,Benchmark Sector,DIJA (Information Technology),DIJA (Information Technology)
+2000006,VNDA2000006,Benchmark Sector,DIJA (Materials),DIJA (Materials)
+2000042,VNDA2000042,Benchmark Sector,DJTA (Energy),DJTA (Energy)
+2000035,VNDA2000035,Benchmark Sector,DJTA (Industrials),DJTA (Industrials)
+2000043,VNDA2000043,Benchmark Sector,DJU (Energy),DJU (Energy)
+2000060,VNDA2000060,Benchmark Sector,DJU (Utilities),DJU (Utilities)
+2000049,VNDA2000049,Benchmark Sector,Nasdaq-100 (Communication Services),Nasdaq-100 (Communication Services)
+2000029,VNDA2000029,Benchmark Sector,Nasdaq-100 (Consumer Discretionary),Nasdaq-100 (Consumer Discretionary)
+2000055,VNDA2000055,Benchmark Sector,Nasdaq-100 (Consumer Staples),Nasdaq-100 (Consumer Staples)
+2000438,VNDA2000438,Benchmark Sector,Nasdaq-100 (Energy),Nasdaq-100 (Energy)
+2000001,VNDA2000001,Benchmark Sector,Nasdaq-100 (Financials),Nasdaq-100 (Financials)
+2000013,VNDA2000013,Benchmark Sector,Nasdaq-100 (Health Care),Nasdaq-100 (Health Care)
+2000036,VNDA2000036,Benchmark Sector,Nasdaq-100 (Industrials),Nasdaq-100 (Industrials)
+2000023,VNDA2000023,Benchmark Sector,Nasdaq-100 (Information Technology),Nasdaq-100 (Information Technology)
+2000007,VNDA2000007,Benchmark Sector,Nasdaq-100 (Materials),Nasdaq-100 (Materials)
+2000421,VNDA2000421,Benchmark Sector,Nasdaq-100 (Real Estate),Nasdaq-100 (Real Estate)
+2000431,VNDA2000431,Benchmark Sector,Nasdaq-100 (Utilities),Nasdaq-100 (Utilities)
+2000051,VNDA2000051,Benchmark Sector,Russell-1000 (Communication Services),Russell-1000 (Communication Services)
+2000031,VNDA2000031,Benchmark Sector,Russell-1000 (Consumer Discretionary),Russell-1000 (Consumer Discretionary)
+2000057,VNDA2000057,Benchmark Sector,Russell-1000 (Consumer Staples),Russell-1000 (Consumer Staples)
+2000045,VNDA2000045,Benchmark Sector,Russell-1000 (Energy),Russell-1000 (Energy)
+2000003,VNDA2000003,Benchmark Sector,Russell-1000 (Financials),Russell-1000 (Financials)
+2000015,VNDA2000015,Benchmark Sector,Russell-1000 (Health Care),Russell-1000 (Health Care)
+2000038,VNDA2000038,Benchmark Sector,Russell-1000 (Industrials),Russell-1000 (Industrials)
+2000025,VNDA2000025,Benchmark Sector,Russell-1000 (Information Technology),Russell-1000 (Information Technology)
+2000009,VNDA2000009,Benchmark Sector,Russell-1000 (Materials),Russell-1000 (Materials)
+2000019,VNDA2000019,Benchmark Sector,Russell-1000 (Real Estate),Russell-1000 (Real Estate)
+2000062,VNDA2000062,Benchmark Sector,Russell-1000 (Utilities),Russell-1000 (Utilities)
+2000052,VNDA2000052,Benchmark Sector,Russell-2000 (Communication Services),Russell-2000 (Communication Services)
+2000032,VNDA2000032,Benchmark Sector,Russell-2000 (Consumer Discretionary),Russell-2000 (Consumer Discretionary)
+2000058,VNDA2000058,Benchmark Sector,Russell-2000 (Consumer Staples),Russell-2000 (Consumer Staples)
+2000046,VNDA2000046,Benchmark Sector,Russell-2000 (Energy),Russell-2000 (Energy)
+2000004,VNDA2000004,Benchmark Sector,Russell-2000 (Financials),Russell-2000 (Financials)
+2000016,VNDA2000016,Benchmark Sector,Russell-2000 (Health Care),Russell-2000 (Health Care)
+2000039,VNDA2000039,Benchmark Sector,Russell-2000 (Industrials),Russell-2000 (Industrials)
+2000026,VNDA2000026,Benchmark Sector,Russell-2000 (Information Technology),Russell-2000 (Information Technology)
+2000010,VNDA2000010,Benchmark Sector,Russell-2000 (Materials),Russell-2000 (Materials)
+2000020,VNDA2000020,Benchmark Sector,Russell-2000 (Real Estate),Russell-2000 (Real Estate)
+2000063,VNDA2000063,Benchmark Sector,Russell-2000 (Utilities),Russell-2000 (Utilities)
+2000053,VNDA2000053,Benchmark Sector,Russell-3000 (Communication Services),Russell-3000 (Communication Services)
+2000033,VNDA2000033,Benchmark Sector,Russell-3000 (Consumer Discretionary),Russell-3000 (Consumer Discretionary)
+2000059,VNDA2000059,Benchmark Sector,Russell-3000 (Consumer Staples),Russell-3000 (Consumer Staples)
+2000047,VNDA2000047,Benchmark Sector,Russell-3000 (Energy),Russell-3000 (Energy)
+2000005,VNDA2000005,Benchmark Sector,Russell-3000 (Financials),Russell-3000 (Financials)
+2000017,VNDA2000017,Benchmark Sector,Russell-3000 (Health Care),Russell-3000 (Health Care)
+2000040,VNDA2000040,Benchmark Sector,Russell-3000 (Industrials),Russell-3000 (Industrials)
+2000027,VNDA2000027,Benchmark Sector,Russell-3000 (Information Technology),Russell-3000 (Information Technology)
+2000011,VNDA2000011,Benchmark Sector,Russell-3000 (Materials),Russell-3000 (Materials)
+2000021,VNDA2000021,Benchmark Sector,Russell-3000 (Real Estate),Russell-3000 (Real Estate)
+2000064,VNDA2000064,Benchmark Sector,Russell-3000 (Utilities),Russell-3000 (Utilities)
+2000050,VNDA2000050,Benchmark Sector,S&P500 (Communication Services),S&P500 (Communication Services)
+2000030,VNDA2000030,Benchmark Sector,S&P500 (Consumer Discretionary),S&P500 (Consumer Discretionary)
+2000056,VNDA2000056,Benchmark Sector,S&P500 (Consumer Staples),S&P500 (Consumer Staples)
+2000044,VNDA2000044,Benchmark Sector,S&P500 (Energy),S&P500 (Energy)
+2000002,VNDA2000002,Benchmark Sector,S&P500 (Financials),S&P500 (Financials)
+2000014,VNDA2000014,Benchmark Sector,S&P500 (Health Care),S&P500 (Health Care)
+2000037,VNDA2000037,Benchmark Sector,S&P500 (Industrials),S&P500 (Industrials)
+2000024,VNDA2000024,Benchmark Sector,S&P500 (Information Technology),S&P500 (Information Technology)
+2000008,VNDA2000008,Benchmark Sector,S&P500 (Materials),S&P500 (Materials)
+2000018,VNDA2000018,Benchmark Sector,S&P500 (Real Estate),S&P500 (Real Estate)
+2000061,VNDA2000061,Benchmark Sector,S&P500 (Utilities),S&P500 (Utilities)
+2300026,VNDA2300026,Industry,Aerospace & Defense,Aerospace & Defense
+2300056,VNDA2300056,Industry,Air Freight & Logistics,Air Freight & Logistics
+2300076,VNDA2300076,Industry,Automobile Components,Automobile Components
+2300059,VNDA2300059,Industry,Automobiles,Automobiles
+2300037,VNDA2300037,Industry,Banks,Banks
+2300055,VNDA2300055,Industry,Beverages,Beverages
+2300036,VNDA2300036,Industry,Biotechnology,Biotechnology
+2300051,VNDA2300051,Industry,Broadline Retail,Broadline Retail
+2300078,VNDA2300078,Industry,Building Products,Building Products
+2300022,VNDA2300022,Industry,Capital Markets,Capital Markets
+2300040,VNDA2300040,Industry,Chemicals,Chemicals
+2300025,VNDA2300025,Industry,Commercial Services & Supplies,Commercial Services & Supplies
+2300046,VNDA2300046,Industry,Communications Equipment,Communications Equipment
+2300048,VNDA2300048,Industry,Construction & Engineering,Construction & Engineering
+2300042,VNDA2300042,Industry,Construction Materials,Construction Materials
+2300074,VNDA2300074,Industry,Consumer Finance,Consumer Finance
+2300063,VNDA2300063,Industry,Consumer Staples Distribution & Retail,Consumer Staples Distribution & Retail
+2300032,VNDA2300032,Industry,Containers & Packaging,Containers & Packaging
+2300082,VNDA2300082,Industry,Distributors,Distributors
+2300013,VNDA2300013,Industry,Diversified Consumer Services,Diversified Consumer Services
+2300077,VNDA2300077,Industry,Diversified REITs,Diversified REITs
+2300038,VNDA2300038,Industry,Diversified Telecommunication Services,Diversified Telecommunication Services
+2300054,VNDA2300054,Industry,Electric Utilities,Electric Utilities
+2300044,VNDA2300044,Industry,Electrical Equipment,Electrical Equipment
+2300039,VNDA2300039,Industry,"Electronic Equipment, Instruments & Components","Electronic Equipment, Instruments & Components"
+2300014,VNDA2300014,Industry,Energy Equipment & Services,Energy Equipment & Services
+2300072,VNDA2300072,Industry,Entertainment,Entertainment
+2300064,VNDA2300064,Industry,Financial Services,Financial Services
+2300075,VNDA2300075,Industry,Food Products,Food Products
+2300067,VNDA2300067,Industry,Gas Utilities,Gas Utilities
+2300065,VNDA2300065,Industry,Ground Transportation,Ground Transportation
+2300011,VNDA2300011,Industry,Health Care Equipment & Supplies,Health Care Equipment & Supplies
+2300066,VNDA2300066,Industry,Health Care Providers & Services,Health Care Providers & Services
+2300083,VNDA2300083,Industry,Health Care REITs,Health Care REITs
+2300071,VNDA2300071,Industry,Health Care Technology,Health Care Technology
+2300061,VNDA2300061,Industry,Hotel & Resort REITs,Hotel & Resort REITs
+2300020,VNDA2300020,Industry,"Hotels, Restaurants & Leisure","Hotels, Restaurants & Leisure"
+2300033,VNDA2300033,Industry,Household Durables,Household Durables
+2300043,VNDA2300043,Industry,Household Products,Household Products
+2300021,VNDA2300021,Industry,IT Services,IT Services
+2300041,VNDA2300041,Industry,Independent Power and Renewable Electricity Producers,Independent Power and Renewable Electricity Producers
+2300019,VNDA2300019,Industry,Industrial Conglomerates,Industrial Conglomerates
+2300080,VNDA2300080,Industry,Industrial REITs,Industrial REITs
+2300029,VNDA2300029,Industry,Insurance,Insurance
+2300015,VNDA2300015,Industry,Interactive Media & Services,Interactive Media & Services
+2300069,VNDA2300069,Industry,Leisure Products,Leisure Products
+2300060,VNDA2300060,Industry,Life Sciences Tools & Services,Life Sciences Tools & Services
+2300045,VNDA2300045,Industry,Machinery,Machinery
+2300028,VNDA2300028,Industry,Marine Transportation,Marine Transportation
+2300062,VNDA2300062,Industry,Media,Media
+2300047,VNDA2300047,Industry,Metals & Mining,Metals & Mining
+2300035,VNDA2300035,Industry,Mortgage Real Estate Investment Trusts (REITs),Mortgage Real Estate Investment Trusts (REITs)
+2300027,VNDA2300027,Industry,Multi-Utilities,Multi-Utilities
+2300068,VNDA2300068,Industry,Office REITs,Office REITs
+2300031,VNDA2300031,Industry,"Oil, Gas & Consumable Fuels","Oil, Gas & Consumable Fuels"
+2300030,VNDA2300030,Industry,Paper & Forest Products,Paper & Forest Products
+2300049,VNDA2300049,Industry,Passenger Airlines,Passenger Airlines
+2300018,VNDA2300018,Industry,Personal Care Products,Personal Care Products
+2300023,VNDA2300023,Industry,Pharmaceuticals,Pharmaceuticals
+2300052,VNDA2300052,Industry,Professional Services,Professional Services
+2300057,VNDA2300057,Industry,Real Estate Management & Development,Real Estate Management & Development
+2300073,VNDA2300073,Industry,Residential REITs,Residential REITs
+2300081,VNDA2300081,Industry,Retail REITs,Retail REITs
+2300012,VNDA2300012,Industry,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment
+2300050,VNDA2300050,Industry,Software,Software
+2300079,VNDA2300079,Industry,Specialized REITs,Specialized REITs
+2300024,VNDA2300024,Industry,Specialty Retail,Specialty Retail
+2300070,VNDA2300070,Industry,"Technology Hardware, Storage & Peripherals","Technology Hardware, Storage & Peripherals"
+2300017,VNDA2300017,Industry,"Textiles, Apparel & Luxury Goods","Textiles, Apparel & Luxury Goods"
+2300034,VNDA2300034,Industry,Tobacco,Tobacco
+2300053,VNDA2300053,Industry,Trading Companies & Distributors,Trading Companies & Distributors
+2300084,VNDA2300084,Industry,Transportation Infrastructure,Transportation Infrastructure
+2300058,VNDA2300058,Industry,Water Utilities,Water Utilities
+2300016,VNDA2300016,Industry,Wireless Telecommunication Services,Wireless Telecommunication Services
+2300008,VNDA2300008,Sector,Communication Services,Communication Services
+2300005,VNDA2300005,Sector,Consumer Discretionary,Consumer Discretionary
+2300009,VNDA2300009,Sector,Consumer Staples,Consumer Staples
+2300007,VNDA2300007,Sector,Energy,Energy
+2300000,VNDA2300000,Sector,Financials,Financials
+2300002,VNDA2300002,Sector,Health Care,Health Care
+2300006,VNDA2300006,Sector,Industrials,Industrials
+2300004,VNDA2300004,Sector,Information Technology,Information Technology
+2300001,VNDA2300001,Sector,Materials,Materials
+2300003,VNDA2300003,Sector,Real Estate,Real Estate
+2300010,VNDA2300010,Sector,Utilities,Utilities
+2400007,VNDA2400007,Theme,Mag7,Magnificient 7
+2400006,VNDA2400006,Theme,Total (All listed securities),Total (All listed securities)
