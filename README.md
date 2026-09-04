@@ -75,7 +75,6 @@ vandatrack/
 ```
 vandatrack/
 └── equity/
-    ├── sample=all/
     ├── sample=nasdaq100/
     ├── sample=russell3000/
     └── sample=sp500/
